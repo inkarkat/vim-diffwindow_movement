@@ -36,4 +36,4 @@ call CountJump#Region#TextObject#Make('', 'c', 'i', 'V', function('diffwindow_mo
 "			Note: [count] doesn't make so much sense here. 
 call CountJump#Region#TextObject#Make('', 'd', 'i', 'V', function('diffwindow_movement#IsDifferenceLine'), 1)
 
-" vim: set sts=4 sw=4 noexpandtab ff=unix fdm=syntax :
+" vim: set ts=8 sts=4 sw=4 noexpandtab ff=unix fdm=syntax :
