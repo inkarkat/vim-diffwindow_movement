@@ -45,7 +45,7 @@ To uninstall, use the |:RmVimball| command.
 DEPENDENCIES				    *diffwindow_movement-dependencies*
 
 - Requires Vim 7.0 or higher.
-- Requires the CountJump plugin (vimscript #3130), version 1.50 or higher.
+- Requires the CountJump plugin (vimscript #3130), version 1.90 or higher.
 
 ==============================================================================
 CONFIGURATION				   *diffwindow_movement-configuration*
@@ -75,6 +75,10 @@ IDEAS						   *diffwindow_movement-ideas*
 ==============================================================================
 HISTORY						 *diffwindow_movement-history*
 
+1.03	RELEASEME
+- CountJump 1.9 renames g:CountJump_Context to g:CountJump_TextObjectContext.
+  *** You need to update to CountJump.vim (vimscript #3130) version 1.90! ***
+
 1.02	22-Jul-2014
 - Allow to reconfigure the mappings for the motion and text objects. Thanks to
   Enno Nagel for suggesting this.
@@ -86,7 +90,7 @@ HISTORY						 *diffwindow_movement-history*
 First published version.
 
 ==============================================================================
-Copyright: (C) 2011-2014 Ingo Karkat
+Copyright: (C) 2011-2017 Ingo Karkat
 The VIM LICENSE applies to this plugin; see |copyright|.
 
 Maintainer:	Ingo Karkat <ingo@karkat.de>
