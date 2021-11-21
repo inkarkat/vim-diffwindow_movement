@@ -1,2 +1,3 @@
 autoload/diffwindow_movement.vim
 plugin/diffwindow_movement.vim
+doc/diffwindow_movement.txt
