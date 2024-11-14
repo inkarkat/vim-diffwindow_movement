@@ -76,7 +76,7 @@ below).
 HISTORY
 ------------------------------------------------------------------------------
 
-##### 1.03    RELEASEME
+##### 1.03    14-Nov-2024
 - CountJump 1.9 renames g:CountJump\_Context to g:CountJump\_TextObjectContext.
 
 __You need to update to CountJump.vim ([vimscript #3130](http://www.vim.org/scripts/script.php?script_id=3130)) version 1.90!__
@@ -92,7 +92,7 @@ __You need to update to CountJump.vim ([vimscript #3130](http://www.vim.org/scri
 - First published version.
 
 ------------------------------------------------------------------------------
-Copyright: (C) 2011-2022 Ingo Karkat -
+Copyright: (C) 2011-2024 Ingo Karkat -
 The [VIM LICENSE](http://vimdoc.sourceforge.net/htmldoc/uganda.html#license) applies to this plugin.
 
 Maintainer:     Ingo Karkat &lt;ingo@karkat.de&gt;

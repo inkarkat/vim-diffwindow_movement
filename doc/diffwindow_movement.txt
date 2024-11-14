@@ -87,7 +87,7 @@ below).
 ==============================================================================
 HISTORY						 *diffwindow_movement-history*
 
-1.03	RELEASEME
+1.03	14-Nov-2024
 - CountJump 1.9 renames g:CountJump_Context to g:CountJump_TextObjectContext.
   *** You need to update to CountJump.vim (vimscript #3130) version 1.90! ***
 
@@ -102,7 +102,7 @@ HISTORY						 *diffwindow_movement-history*
 First published version.
 
 ==============================================================================
-Copyright: (C) 2011-2022 Ingo Karkat
+Copyright: (C) 2011-2024 Ingo Karkat
 The VIM LICENSE applies to this plugin; see |copyright|.
 
 Maintainer:	Ingo Karkat <ingo@karkat.de>
